@@ -164,7 +164,7 @@ body form fieldset div.formRow::before {
     max-width: 100%;
     line-height: 1.325em;
     min-height: 2.5em;
-    font-size: 18px;
+/*     font-size: 18px; */
     font-weight: 400;
     top: 0;
     -webkit-transform: translate(0, 0);
