@@ -147,7 +147,7 @@ body form fieldset div.formRow::before {
   left: 0;
 }
 
-/* @media (max-width: 587px) {
+@media (max-width: 587px) {
   body form fieldset div.formRow {
     margin: 0 1em 2em !important;
     padding: 0;
@@ -216,5 +216,5 @@ body form fieldset div.formRow::before {
   body form fieldset div.formRow::before {
     height: 80px;
   }
-} */
+}
 /*# sourceMappingURL=nexioiframe.css.map */
